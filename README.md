@@ -11,8 +11,11 @@ This repository contains all the project files of Ploygon Module 3
 
 ## Program Explanation
 * Polygon MOdule 3: In this we learnt how to create the circom circuit and to execute it. Also learnt how to send testnet tokens to spend to create a token which did in the polygonscan.
+  
   The key points are:
+  
   When programing we need to change the versions otherwise it will not work
+  
   Finding new rpc server since old servers may shut down, in this case used amoy since mumbai server was down.
 
 ## Author 
